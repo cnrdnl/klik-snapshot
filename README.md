@@ -23,3 +23,6 @@ Klikken in het eigen venster worden genegeerd. Instellingen staan in
 ## Afhankelijkheden
 Alleen systeem-Python-pakketten: `python3-tk`, `python3-pil`, `python3-xlib`.
 Werkt alleen onder X11 (niet Wayland).
+
+## Licentie
+MIT – zie [LICENSE](LICENSE).
